@@ -128,3 +128,4 @@ java.nio.file.AccessDeniedException: \\FSI-HOME-WIN\HOME-ETUD\klm5738a\INFO2-ILU
 	at org.eclipse.egit.core.RepositoryHandle.scanForRepoChanges(RepositoryHandle.java:339)
 	at org.eclipse.egit.ui.internal.ExternalRepositoryScanner$RepositoryChangeScanner.run(ExternalRepositoryScanner.java:281)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2026-09-24 14:52:20,021 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

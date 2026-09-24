@@ -6,7 +6,7 @@
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
-    <stringAttribute key="org.eclipse.debug.core.terminate.timestamp" value="1790253758106"/>
+    <stringAttribute key="org.eclipse.debug.core.terminate.timestamp" value="1790254348579"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="bateau.Bateau"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value=""/>

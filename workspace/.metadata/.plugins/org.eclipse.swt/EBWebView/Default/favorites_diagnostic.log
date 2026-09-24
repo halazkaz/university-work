@@ -37,3 +37,13 @@
 2026-09-24 12:04:19.241: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-24 12:04:19.241: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-24 12:48:42.172: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 12:52:26.511: [INFO] CurrentProfilePath: \\fsi-home-win\HOME-ETUD\klm5738a\INFO2-ILU1\university-work\workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 12:52:26.511: [INFO] Profiles total count: 1
+2026-09-24 12:52:26.511: [INFO] Profile: name=Profil 1 path=\\fsi-home-win\HOME-ETUD\klm5738a\INFO2-ILU1\university-work\workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-24T12:15:05.968Z
+2026-09-24 12:52:26.511: [INFO] LastUsedProfileDir: \\fsi-home-win\HOME-ETUD\klm5738a\INFO2-ILU1\university-work\workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 12:52:26.511: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=\\fsi-home-win\HOME-ETUD\klm5738a\INFO2-ILU1\university-work\workspace\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-24T12:15:05.968Z
+2026-09-24 12:52:26.511: [INFO] OnDoneLoading sync enabled: 0
+2026-09-24 12:52:26.511: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-24 12:52:26.511: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-24 12:52:26.511: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 13:00:48.127: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
