@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+\\fsi-home-win\HOME-ETUD\klm5738a\INFO2-ILU1\university-work\workspace\.metadata\.plugins\org.eclipse.jdt.core
+2089877487.index
+1865797976.index
+2494864949.index
